@@ -1,3 +1,6 @@
+PROJECT - Predicting Stroke Events: Integrating Real-World and Synthetic Data for Accurate Prognostication
+
+
 1- Data Loading:
 
 The code reads four CSV files: "train.csv", "test.csv", "sample_submission.csv", and "healthcare-dataset-stroke-data.csv" using the pandas library and assigns them to respective variables: train_set, test_set, sample_submission, and combined_data.
