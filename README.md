@@ -1,4 +1,4 @@
-PROJECT - Predicting Stroke Events: Integrating Real-World and Synthetic Data for Accurate Prognostication
+PROJECT - Predicting Stroke Events:Integrating Real-World and Synthetic Data for Accurate Prognostication
 
 
 1- Data Loading:
